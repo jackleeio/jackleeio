@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Jack Lee. <img src="https://github.com/uxk0587/uxk0587/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/uxk0587/uxk0587/blob/main/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/uxk0587/uxk0587/blob/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

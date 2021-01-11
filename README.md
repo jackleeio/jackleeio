@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Javascript | HTML | CSS 
+- 💻 &nbsp; Python | JavaScript | Java | HTML | CSS 
 - 🌐 &nbsp; Android | Vue.js | Bootstrap | JQuery | DJango | Django REST framework | Fastapi | Data Mining | Data Analysis
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntelliJ IDEA | Subline Text | Juypter Notebook | Git | VMware   

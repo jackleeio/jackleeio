@@ -5,13 +5,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer, front-end web developer and Python full stack developer.
-- 🌱 &nbsp; Enthusiast in Data Mining and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Data Mining, Artificial Intelligence and BlockChain.
 - ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | Java | HTML | CSS 
+- 💻 &nbsp; Python | JavaScript | Java | HTML | CSS | C | Solidity
 - 🌐 &nbsp; Android | Vue.js | Bootstrap | JQuery | DJango | Django REST framework | Fastapi | Data Mining | Data Analysis | Hadoop | Spark | TensorFlow
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntelliJ IDEA | Subline Text | Juypter Notebook | Git | VMware 

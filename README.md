@@ -4,10 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer, front-end web developer and Python full stack developer.
-- 🌱 &nbsp; Enthusiast in Data Mining, Artificial Intelligence and BlockChain.
+- 💼 &nbsp; Front-end web developer and Python full stack developer.
+- 🌱 &nbsp; Enthusiast in Web3, AI, BlockChain, Data Mining.
 - ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 

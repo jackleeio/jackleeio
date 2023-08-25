@@ -9,8 +9,8 @@
   
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | TypeScript | Java | HTML | CSS | C | Solidity
-- 🌐 &nbsp; Vue.js | React | Django | Django REST framework | Fastapi | Data Mining | Data Analysis 
+- 💻 &nbsp; Python | JavaScript | TypeScript | Solidity 
+- 🌐 &nbsp; Vue | React | Django | Django REST framework | Fastapi | Data Mining | Data Analysis 
 
 <br>
 

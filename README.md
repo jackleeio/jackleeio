@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Front-end web developer and Python full stack developer.
 - 🌱 &nbsp; Enthusiast in Web3, AI, BlockChain, Data Mining.
 - ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies/side hustles.
-
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | TypeScript | Java | HTML | CSS | C | Solidity

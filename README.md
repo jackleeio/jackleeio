@@ -1,15 +1,17 @@
 
-<h3> 👨🏻‍💻 Hi there! </h3>
+<h3> Hi there! </h3>
 
-- 💼 &nbsp; Front-end web developer and Python full stack developer.
+<h4>👨🏻‍💻 About me</h4>
+
+- 💼 &nbsp; Web3 full stack developer.
 - 🌱 &nbsp; Enthusiast in Web3, AI, BlockChain, Data Mining.
-- ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
-<h3>🛠 Tech Stack</h3>
+<h4>🛠 Tech Stack</h4>
 
-- 💻 &nbsp; Python | JavaScript | TypeScript | Solidity 
-- 🌐 &nbsp; Vue | React | Django | Django REST framework | Fastapi | Data Mining | Data Analysis 
+- 💻 &nbsp; JavaScript | TypeScript | Solidity｜Python 
+- 🌐 &nbsp; React | Django | Vue | FastApi | Data Mining | Data Analysis 
 
 <br>
 

@@ -1,6 +1,5 @@
-<img align="right" alt="GIF" src="https://github.com/uxk0587/uxk0587/blob/main/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 Hi there! </h3>
 
 - 💼 &nbsp; Front-end web developer and Python full stack developer.
 - 🌱 &nbsp; Enthusiast in Web3, AI, BlockChain, Data Mining.

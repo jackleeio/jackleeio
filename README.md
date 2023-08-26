@@ -11,7 +11,7 @@
 <h4>🛠 Tech Stack</h4>
 
 - 💻 &nbsp; JavaScript | TypeScript | Solidity｜Python 
-- 🌐 &nbsp; React | Django | Vue | FastApi | Data Mining | Data Analysis 
+- 🌐 &nbsp; React | Django | Vue | FastApi 
 
 <br>
 

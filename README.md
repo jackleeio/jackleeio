@@ -10,7 +10,7 @@
   
 <h4>🛠 Tech Stack</h4>
 
-- 💻 &nbsp; JavaScript | TypeScript | Solidity ｜ Python ｜ React | Django | Vue | FastApi 
+- 💻 &nbsp; JavaScript | TypeScript | Solidity | Python | React | Django | Vue | FastApi 
 
 <br>
 

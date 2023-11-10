@@ -3,14 +3,14 @@
 
 <h4>👨🏻‍💻 About me</h4>
 
-- 💼 &nbsp; Web3 full stack developer.
-- 🌱 &nbsp; Enthusiast in Web3, AI, BlockChain, Data Mining.
+- 💼 &nbsp; Web3 full stack engineer.
+- 🌱 &nbsp; Enthusiast in Web3, BlockChain, AI, Data Mining.
 - ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
 <h4>🛠 Tech Stack</h4>
 
-- 💻 &nbsp; JavaScript | TypeScript | Solidity | Python | React | Django | Vue | FastApi 
+- 💻 &nbsp; JavaScript | TypeScript | Solidity | React | Vue | Python | Django | FastApi 
 
 <br>
 

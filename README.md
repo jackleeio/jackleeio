@@ -5,7 +5,6 @@
 
 - 💼 &nbsp; Web3 full stack engineer.
 - 🌱 &nbsp; Enthusiast in Web3, BlockChain, AI, Data Mining.
-- ✍️ &nbsp; Watching Good Moive and trying out latest design trends as hobbies.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
 <h4>🛠 Tech Stack</h4>

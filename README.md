@@ -9,7 +9,7 @@
   
 <h4>🛠 Tech Stack</h4>
 
-- 💻 &nbsp; JavaScript | TypeScript | React | Vue | Python | Django | FastApi | Solidity | Hardhat | Foundry | Remix | Truffle | TailwindCSS | NextJS | Wagmi | EthersJS | Web3py
+- 💻 &nbsp; JavaScript | TypeScript | React | Vue | Python | Django | DRF | FastApi | Solidity | Hardhat | Foundry | Remix | Truffle | TailwindCSS | NextJS | Wagmi | EthersJS | Web3py | Redux
 
 <br>
 

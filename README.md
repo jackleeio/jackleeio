@@ -45,11 +45,10 @@
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-8A2BE2?style=flat-square&logo=shadcnui&logoColor=white" />
   <img alt="daisyUI" src="https://img.shields.io/badge/-daisyUI-FF69B4?style=flat-square&logo=daisyui&logoColor=white" />
 </p>
-<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />
 </a>

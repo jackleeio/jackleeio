@@ -1,11 +1,11 @@
 
 <h3> Hi there! </h3>
 
-<h4>👨🏻‍💻 About me</h4>
+<h4> 👾 About me</h4>
 
-- 💼 &nbsp; Web3 full stack engineer.
-- 🌱 &nbsp; Enthusiast in Web3, AI, Data Mining, Design, Economics.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🥷 &nbsp; Web3 full stack engineer.
+- 🎮 &nbsp; Enthusiast in Web3, AI, Data Mining, Design, Economics.
+- 🏂 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
 <h4>🛠 Tech Stack</h4>
 <p>

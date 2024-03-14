@@ -53,6 +53,7 @@
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
   <img alt="IPFS" src="https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 <a href="">

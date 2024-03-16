@@ -54,6 +54,7 @@
   <img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
   <img alt="IPFS" src="https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Upstash" src="https://img.shields.io/badge/-Upstash-00C7B7?style=flat-square&logo=upstash&logoColor=white" />
 </p>
 
 

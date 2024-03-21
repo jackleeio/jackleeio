@@ -59,8 +59,8 @@
 
 
 <a href="https://github.com/jackleeio">
-  <img height=200 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars" />
+  <img height=180 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars" />
 </a>
 <a href="https://github.com/jackleeio">
-  <img height=200 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />
+  <img height=180 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />
 </a>

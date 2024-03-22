@@ -1,7 +1,7 @@
 
 <h3> Hi there! 👋🏻 </h3>
 
-#### 👾 About me
+#### About me
 
 - 🥷 &nbsp; Indie hacker. Creator. Full stack engineer.
 - 🎮 &nbsp; Enthusiast in Web3, AI, Data Mining, Design, Economics and History.

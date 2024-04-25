@@ -7,7 +7,7 @@
 - 🎮 &nbsp; Enthusiast in Web3 & AI.
 
 #### Languages & Frameworks I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,html,css,python,fastapi,django,md,graphql,zig,solidity,threejs)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,jest,html,css,python,fastapi,django,md,graphql,zig,solidity,threejs)
 
 #### Stacks I work with
 [![Stacks I work with](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis,nginx,linux,nodejs,grafana,prometheus,docker,kubernetes,githubactions,git,github,postman,figma,cloudflare,vscode,sublime,bash,heroku,ipfs,vercel,aws,gcp,

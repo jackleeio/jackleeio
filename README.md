@@ -36,7 +36,7 @@
 
 
 <a href="https://github.com/jackleeio">
-  <img height=180 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars&include_all_commits=false" />
+  <img height=180 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars&include_all_commits=true" />
 </a>
 <a href="https://github.com/jackleeio">
   <img height=180 align="center" src="https://github-readme-stats-pi-plum.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />

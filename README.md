@@ -3,8 +3,8 @@
 
 #### About me
 
-- 🥷 &nbsp; Indie hacker. Creator. Full stack engineer.
-- 🎮 &nbsp; Enthusiast in Web3 & AI.
+- 🥷 &nbsp; Web3 Builder. Creator. Crypto full stack engineer.
+- 🎮 &nbsp; Enthusiast in AI.
 
 #### Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,jest,html,css,python,fastapi,django,md,graphql,solidity,threejs)

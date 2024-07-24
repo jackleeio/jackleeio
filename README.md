@@ -4,7 +4,7 @@
 #### About me
 
 - 🥷 &nbsp; Web3 Builder. Creator. Crypto full stack engineer.
-- 🎮 &nbsp; Enthusiast in AI.
+- 🎮 &nbsp; Enthusiast in AI & Economics.
 
 #### Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,jest,html,css,python,fastapi,django,md,graphql,solidity,threejs)

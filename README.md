@@ -36,8 +36,8 @@
 
 
 <a href="https://github.com/jackleeio">
-  <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars&include_all_commits=false" />
+  <img height=180  align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api?username=jackleeio&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&hide=stars&include_all_commits=flase&border_radius=15" />
 </a>
 <a href="https://github.com/jackleeio">
-  <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff" />
+  <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=jackleeio&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&border_radius=15" />
 </a>

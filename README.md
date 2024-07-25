@@ -7,11 +7,11 @@
 - 🎮 &nbsp; Enthusiast in AI & Economics.
 
 #### Languages & Frameworks I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,jest,html,css,python,fastapi,django,md,graphql,solidity,threejs)
+[![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,vue,vuetify,vite,webpack,sass,npm,pnpm,jest,html,css,python,fastapi,django,md,graphql,solidity,threejs)](https://jacklee.io)
 
 #### Stacks I work with
 [![Stacks I work with](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis,nginx,linux,nodejs,grafana,prometheus,docker,kubernetes,githubactions,git,github,postman,figma,cloudflare,vscode,sublime,bash,ipfs,vercel,aws,gcp,
-)](https://skillicons.dev)
+)](https://jacklee.io)
 
 #### Other things I use
 <p>

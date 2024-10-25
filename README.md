@@ -49,6 +49,8 @@
 - Smart Contract Security: [Contract-Security](https://github.com/jackleeio/Contract-Security)
 - Solidity Internals: [Solidity-Internals](https;//github.com/jackleeio/Solidity-Internals)
 - Build the EVM from scratch: [Mini-EVM](https://github.com/jackleeio/Contract-Security)
+- Upgradeable Contract using Hardhat: [Upgradeable-Contract-Hardhat](https://github.com/jackleeio/Upgradeable-Contract-Hardhat)
+- Upgradeable Contract using Foundry: [Upgradeable-Contract-Foundry](https://github.com/jackleeio/Upgradeable-Contract-Foundry)
 
 ##### Tokenomics & Culture
 - Token Economics Research：[Token-Craft](https://github.com/jackleeio/Token-Craft)
@@ -57,10 +59,5 @@
 ##### DeFi Development & Research
 - Build Uniswap V1 from scratch: [You Uniswap V1](https://github.com/jackleio/You-Uniswap-V1)
 - Build Uniswap V2 from scratch: [You Uniswap V2](https://github.com/jackleio/You-Uniswap-V2)
-
-##### Dapp Develpoment
-- Deploying Upgradeable Contract using Hardhat
-- Deploying Upgradeable Contracts using Foundry
-
 
 

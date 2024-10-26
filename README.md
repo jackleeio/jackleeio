@@ -57,7 +57,7 @@
 - Meme Research: [Meme-cult](https://github.com/jackleeio/meme-Cult)
 
 ##### DeFi Development & Research
-- Build Uniswap V1 from scratch: [You Uniswap V1](https://github.com/jackleio/You-Uniswap-V1)
-- Build Uniswap V2 from scratch: [You Uniswap V2](https://github.com/jackleio/You-Uniswap-V2)
+- Build Uniswap V1 from scratch: [You Uniswap V1](https://github.com/jackleeio/You-Uniswap-V1)
+- Build Uniswap V2 from scratch: [You Uniswap V2](https://github.com/jackleeio/You-Uniswap-V2)
 
 

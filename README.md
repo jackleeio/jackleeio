@@ -54,7 +54,7 @@
 
 ##### Tokenomics & Culture
 - Token Economics Research：[Token-Craft](https://github.com/jackleeio/Token-Craft)
-- Meme Research: [Meme-cult](https://github.com/jackleeio/meme-Cult)
+- Meme Research: [Meme-Cult](https://github.com/jackleeio/meme-Cult)
 
 ##### DeFi Development & Research
 - Build Uniswap V1 from scratch: [You Uniswap V1](https://github.com/jackleeio/You-Uniswap-V1)

@@ -48,7 +48,7 @@
 - Smart Contract Gas Optimization: [Gas-Optimization](https://github.com/jackleeio/Gas-Optimization)
 - Smart Contract Security: [Contract-Security](https://github.com/jackleeio/Contract-Security)
 - Solidity Internals: [Solidity-Internals](https://github.com/jackleeio/Solidity-Internals)
-- Build the EVM from scratch: [Mini-EVM](https://github.com/jackleeio/Contract-Security)
+- Build the EVM from scratch: [Mini-EVM](https://github.com/jackleeio/Mini-EVM)
 - Upgradeable Contract using Hardhat: [Upgradeable-Contract-Hardhat](https://github.com/jackleeio/Upgradeable-Contract-Hardhat)
 - Upgradeable Contract using Foundry: [Upgradeable-Contract-Foundry](https://github.com/jackleeio/Upgradeable-Contract-Foundry)
 

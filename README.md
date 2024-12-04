@@ -15,23 +15,26 @@
 
 #### Other things I use
 <p>
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Django REST Framework" src="https://img.shields.io/badge/-DRF-009688?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-FFDC00?style=flat-square&logo=Hardhat&logoColor=black" />
   <img alt="Foundry" src="https://img.shields.io/badge/-Foundry-FFDC00?style=flat-square&logo=Foundry&logoColor=black" />
-  <img alt="Remix" src="https://img.shields.io/badge/-Remix-007ACC?style=flat-square&logo=remix&logoColor=white" />
-  <img alt="Truffle" src="https://img.shields.io/badge/-Truffle-FF6F61?style=flat-square&logo=truffle&logoColor=white" />
-  <img alt="Wagmi" src="https://img.shields.io/badge/-Wagmi-F05032?style=flat-square&logo=wagmi&logoColor=white" />
-  <img alt="Ethers.js" src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat-square&logo=ethers.js&logoColor=white" />
-  <img alt="Web3.py" src="https://img.shields.io/badge/-Web3.py-61DAFB?style=flat-square&logo=web3.py&logoColor=white" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-8A2BE2?style=flat-square&logo=shadcnui&logoColor=white" />
-  <img alt="daisyUI" src="https://img.shields.io/badge/-daisyUI-FF69B4?style=flat-square&logo=daisyui&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img alt="SQLModel" src="https://img.shields.io/badge/-SQLModel-007ACC?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
-  <img alt="Upstash" src="https://img.shields.io/badge/-Upstash-00C7B7?style=flat-square&logo=upstash&logoColor=white" />
-  <img alt="Docusaurus" src="https://img.shields.io/badge/-Docusaurus-403C54?style=flat-square&logo=docusaurus&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Wagmi" src="https://img.shields.io/badge/-Wagmi-F05032?style=flat-square&logo=wagmi&logoColor=white" />
+<img alt="Ethers.js" src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat-square&logo=ethers.js&logoColor=white" />
+<img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-FFDC00?style=flat-square&logo=Hardhat&logoColor=black" />
+<img alt="Web3.py" src="https://img.shields.io/badge/-Web3.py-61DAFB?style=flat-square&logo=web3.py&logoColor=white" />
+<img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
+<img alt="Solmate" src="https://img.shields.io/badge/-Solmate-808080?style=flat-square&logo=solmate&logoColor=white" />
+<img alt="Remix" src="https://img.shields.io/badge/-Remix-007ACC?style=flat-square&logo=remix&logoColor=white" />
+<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-FF6F61?style=flat-square&logo=truffle&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="Django REST Framework" src="https://img.shields.io/badge/-DRF-009688?style=flat-square&logo=django&logoColor=white" />
+<img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-8A2BE2?style=flat-square&logo=shadcnui&logoColor=white" />
+<img alt="daisyUI" src="https://img.shields.io/badge/-daisyUI-FF69B4?style=flat-square&logo=daisyui&logoColor=white" />
+<img alt="Celery" src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img alt="SQLModel" src="https://img.shields.io/badge/-SQLModel-007ACC?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="Upstash" src="https://img.shields.io/badge/-Upstash-00C7B7?style=flat-square&logo=upstash&logoColor=white" />
+<img alt="Docusaurus" src="https://img.shields.io/badge/-Docusaurus-403C54?style=flat-square&logo=docusaurus&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Cursor" src="https://img.shields.io/badge/-Cursor-FF4500?style=flat-square&logo=cursor&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/-Claude-0088CC?style=flat-square&logo=claude&logoColor=white" />
 </p>
 
 

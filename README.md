@@ -3,7 +3,7 @@
 
 #### About me
 
-- 🥷 &nbsp; Web3 Builder. Creator. Indie Hacker. Crypto Full Stack Engineer.
+- 🥷 &nbsp; Web3 Builder. Creator. Crypto Full Stack Engineer.
 - 🎮 &nbsp; Enthusiast in AI & Economics.
 
 #### Languages & Frameworks I use

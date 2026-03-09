@@ -55,6 +55,6 @@
 ## Connect
 
 [![Telegram](https://img.shields.io/badge/-jackleeio-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jackleeio)
-[![WeChat](https://img.shields.io/badge/-jackleeio-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-@jackleeio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jackleeio)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jackleeio)
 [![Website](https://img.shields.io/badge/-jacklee.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jacklee.io)

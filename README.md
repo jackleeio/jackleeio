@@ -52,7 +52,7 @@
 
 ## Current Projects
 
-- 🤖 **[BNBOT](https://bnbot.io)** - AI-powered Chrome extension for Twitter/X — auto-reply, tweet analysis, and content boosting
+- 🤖 **[bnbot.ai](https://bnbot.ai)** - AI-powered Chrome extension for Twitter/X — auto-reply, tweet analysis, and content boosting
 - 🔌 **[BNBOT MCP Server](https://github.com/jackleeio/bnbot-mcp-server)** - MCP Server for BNBOT — control Twitter/X via AI assistants
 - 🧩 **[BNBOT Skill](https://github.com/jackleeio/bnbot-skill)** - OpenClaw Skill for BNBOT — control Twitter/X via AI
 - 💰 **[ClawMoney](https://github.com/clawmoney)** - Decentralized bounty platform for social media engagement
